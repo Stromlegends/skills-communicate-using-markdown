@@ -4,3 +4,11 @@
 This is a operation of adding header
 
 ![Image of yolo11](https://github.com/user-attachments/assets/8d1317d0-2baf-427e-ba99-19d06b9da0af)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
